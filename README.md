@@ -6,7 +6,7 @@
 - [Website Vulnerability Scanner](https://github.com/ArchelOlazabal/Website_Vulnerability_Scanner)
 - [Career Survey Dashboard](https://github.com/ArchelOlazabal/DashBoard_Survey)
 - [Credit Card Fraud Detection](https://github.com/ArchelOlazabal/Credit_Card_Fraud_Detection)
-- Wazuh SIEM
+- [Wazuh SIEM](https://github.com/ArchelOlazabal/Wazuh-SIEM-Setup)
 - Nessus Vulnerability Scanner
 
 <h2>Certifications: </h2>
