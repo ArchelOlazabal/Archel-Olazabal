@@ -1,13 +1,16 @@
 <h1>Hi, I'm Archel-Olazabal! </h1>
 
-<h2>👨‍💻 Software/Cybersecurity Projects:</h2>
-
-- [Active Directory Home Lab]()
-- [Website Vulnerability Scanner](https://github.com/ArchelOlazabal/Website_Vulnerability_Scanner)
+<h2>👨‍💻 Software Projects:</h2>
 - [Career Survey Dashboard](https://github.com/ArchelOlazabal/DashBoard_Survey)
 - [Credit Card Fraud Detection](https://github.com/ArchelOlazabal/Credit_Card_Fraud_Detection)
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+- [Website Vulnerability Scanner](https://github.com/ArchelOlazabal/Website_Vulnerability_Scanner)
 - [Wazuh SIEM](https://github.com/ArchelOlazabal/Wazuh-SIEM-Setup)
 - Nessus Vulnerability Scanner
+
+<h2>👨‍💻 IT Projects:</h2>
+- [Active Directory Home Lab]()
 
 <h2>Certifications: </h2>
 
